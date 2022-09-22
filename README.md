@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Derek Nakagawa
-## I'm currently a 2nd year studying Data Theory @ UCLA
+## Studying Data Theory - UCLA 2025
 
 - 🔭 I’m currently working with DataRes & Bruin Sports Analytics
 - 🌱 I’m currently learning machine learning in Python & R
