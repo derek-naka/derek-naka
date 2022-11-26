@@ -2,8 +2,8 @@
 ### Studying Data Theory - UCLA 2025
 
 - 🔭 I’m currently working with DataRes & Bruin Sports Analytics
-- 🌱 I’m currently learning machine learning in Python & R Shiny
-- 💬 Ask me about data visualizations & linear regression models
+- 🌱 I’m currently learning deep machine learning in Python & R Shiny
+- 💬 Ask me about exploratory data analysis, linear regression, clustering, & natural language processing.
 
 <img src="https://github-readme-stats.vercel.app/api?username=derek-naka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
