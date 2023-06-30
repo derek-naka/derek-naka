@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Derek Nakagawa
 ### Studying Data Theory - UCLA 2025
 
-- 🔭 I’m currently working with DataRes & Bruin Sports Analytics
+- 🔭 I’m currently working with DataRes (Treasurer) & Bruin Sports Analytics (Consulting Head) 
 - 🌱 I’m currently learning deep machine learning in Python & R Shiny
 - 💬 Ask me about exploratory data analysis, supervised/unsupervised machine learning, image processing, & natural language processing.
 
